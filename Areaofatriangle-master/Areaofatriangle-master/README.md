@@ -1,0 +1,2 @@
+# Areaofatriangle
+Used C++
